@@ -1,6 +1,6 @@
 # ClockWithNey
-Unity製のデスクトップマスコットのサンプルです
-
+<p>Unity製のデスクトップマスコットのサンプルです</p>
+<p>→<a link href="https://www.fanbox.cc/@n-lab/posts/1156749" >本体</a></p>
 
 <h2>デフォルト以外で含んでいるもの</h2>
 <p>◇<a link href="https://github.com/kirurobo/UniWinApiAsset">UniWinApi/kirurobo様</a></p>
